@@ -4,6 +4,6 @@ I run [Cinova](https://cinova.com.au), a software and AI company in Gladstone, Q
 
 Most of what I write is private, because it belongs to the companies it was built for. Cinova's work lives in the [Cinovaa](https://github.com/Cinovaa) organisation.
 
-**Cinova:** [cinova.com.au](https://cinova.com.au) · [YouTube](https://www.youtube.com/@CinovaAI) · [Instagram](https://www.instagram.com/cinova.ai) · [LinkedIn](https://www.linkedin.com/company/103743667)
+**Cinova:** [cinova.com.au](https://cinova.com.au) · [YouTube](https://www.youtube.com/@Cinova-ai) · [Instagram](https://www.instagram.com/cinova.ai) · [LinkedIn](https://www.linkedin.com/company/103743667)
 
 **Me:** [lachyblake.com](https://lachyblake.com)

@@ -1,6 +1,6 @@
 # Lachy Blake
 
-I run [Cinova](https://cinova.com.au), a software and AI company in Gladstone, Queensland. We build custom software for industry and infrastructure companies: the apps, portals and automation their teams use every day.
+I run [Cinova](https://cinova.com.au), a digital infrastructure company in Gladstone, Queensland. We build for industrial businesses: the apps, portals and automation their teams use every day.
 
 Most of what I write is private, because it belongs to the companies it was built for. Cinova's work lives in the [Cinovaa](https://github.com/Cinovaa) organisation.
 
